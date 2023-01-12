@@ -1,6 +1,5 @@
 # GIGABYTE-B560M-11500-RX6800
-
-
+* OpenCore 0.8.4
 ## Hardware
 * CPU: Intel i5-11500
 * GPU: AMD Radeon RX6800
